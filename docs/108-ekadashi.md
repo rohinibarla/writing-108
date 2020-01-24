@@ -1,4 +1,4 @@
-#### Ekadashi
+### Ekadashi
   
 The way numbers are read in Sanskrit is from right to left. Dashi means 10, Eka means 1. 11 is Eka + Dashi -> Ekadashi.   
 
