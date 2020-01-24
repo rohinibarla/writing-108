@@ -1,1 +1,5 @@
-remote_theme: "mmistakes/so-simple-theme@3.2.0"
+theme: jekyll-theme-cayman
+title: Write Joyfully
+description: 108 days Writing Challenge
+show_downloads: ["false"]
+
