@@ -18,11 +18,11 @@ List of articles:
   
   
 List of articles in Jan
-+ [108 Ekadashi](108-ekadashi)
-+ [107 Planning](107-planning)
-+ [106 Trick to achieve a goal](106-trick-to-achieve-a-goal)
-+ [105 Trick to start doing](105-trick-to-start-doing)
-+ [104 Principle to communicate](104-principle-to-communicate)
++ 108 [Ekadashi](108-ekadashi)
++ 107 [Planning](107-planning)
++ 106 [Trick to achieve a goal](106-trick-to-achieve-a-goal)
++ 105 [Trick to start doing](105-trick-to-start-doing)
++ 104 [Principle to communicate](104-principle-to-communicate)
 + [103]()
 + [102]()
 + [101]()
