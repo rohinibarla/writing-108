@@ -14,7 +14,7 @@ List of articles:
 | M | T | W | T | F | S | S |
 | -- | -- | -- | -- | -- | -- | -- |
 |        | [21](108-ekadashi) | [22](107-planning) | [23](106-trick-to-achieve-a-goal) | [24](105-trick-to-start-doing) | [25](104-principle-to-communicate) | [26](103-gynecologists-role) |  
-| [27]() | [28]() | [29]() | [30]() | [31]() |        |        |  
+| [27](102-self-learning.md) | [28]() | [29]() | [30]() | [31]() |        |        |  
   
   
 List of articles in Jan
@@ -24,7 +24,7 @@ List of articles in Jan
 + 105 [Trick to start doing](105-trick-to-start-doing)
 + 104 [Principle to communicate](104-principle-to-communicate)
 + 103 [Gynecologist's role for a better world](103-gynecologists-role)
-+ [102]()
++ 102 [Self learning](102-self-learning.md)
 + [101]()
 + [100]()
 + [099]()
