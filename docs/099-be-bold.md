@@ -19,7 +19,7 @@ Create some great companies to work on hard problems around.
   
 Change the education system and start a school, which is ideal for the current situation.  
   
-Center to learn physics, chemistry, computing and so on.  
+Create centers to learn physics, chemistry, computing, and so on.  
   
-Creating calm companies like Basecamp in Vizag.  
+Create calm companies like Basecamp in Vizag.  
   
