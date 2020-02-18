@@ -49,7 +49,7 @@ List of articles in Jan
 + 092 [Achiever's Mindset](092-achiever-mindset)
 + 091 [Evan Doll](091-evan-doll)
 + 090 [Clairy of mind](090-clarity-of-mind)
-+ 089 [Constant effor](089-constant-effort)
++ 089 [Constant effort](089-constant-effort)
 + 088
 + 087
 + 086
