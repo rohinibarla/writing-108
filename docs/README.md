@@ -35,7 +35,7 @@ List of articles in Jan
 | M | T | W | T | F | S | S |  
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        |        |        |        | [01](097-i-dont-know) | [02](096-brushing-teeth) |  
-| [03]() | [04]() | [05]() | [06]() | [07]() | [08]() | [09]() |  
+| [03](095-the-environment) | [04](094-ground-nuts) | [05](093-developers-in-vizag) | [06]() | [07]() | [08]() | [09]() |  
 | [10]() | [11]() | [12]() | [13]() | [14]() | [15]() | [16]() |  
 | [17]() | [18]() | [19]() | [20]() | [21]() | [22]() | [23]() |  
 | [24]() | [25]() | [26]() | [27]() | [28]() | [29]() |        |  
@@ -43,9 +43,9 @@ List of articles in Jan
 List of articles in Jan  
 + 097 [I don't know](097-i-dont-know)
 + 096 [Brushing teeth causes gastritis?](096-brushing-teeth)
-+ 095
-+ 094
-+ 093
++ 095 [The environment](095-the-environment)
++ 094 [Ground nuts](094-ground-nuts)
++ 093 [Developers in Vizag](093-developers-in-vizag)
 + 092
 + 091
 + 090
