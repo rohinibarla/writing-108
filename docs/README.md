@@ -35,7 +35,7 @@ List of articles in Jan
 | M | T | W | T | F | S | S |  
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        |        |        |        | [01](097-i-dont-know) | [02](096-brushing-teeth) |  
-| [03](095-the-environment) | [04](094-ground-nuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08]() | [09]() |  
+| [03](095-the-environment) | [04](094-ground-nuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08](090-clarity-of-mind) | [09]() |  
 | [10]() | [11]() | [12]() | [13]() | [14]() | [15]() | [16]() |  
 | [17]() | [18]() | [19]() | [20]() | [21]() | [22]() | [23]() |  
 | [24]() | [25]() | [26]() | [27]() | [28]() | [29]() |        |  
@@ -48,7 +48,7 @@ List of articles in Jan
 + 093 [Developers in Vizag](093-developers-in-vizag)
 + 092 [Achiever's Mindset](092-achiever-mindset)
 + 091 [Evan Doll](091-evan-doll)
-+ 090
++ 090 [Clairy of mind](090-clarity-of-mind)
 + 089
 + 088
 + 087
