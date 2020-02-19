@@ -36,7 +36,7 @@ List of articles in Jan
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        |        |        |        | [01](097-i-dont-know) | [02](096-brushing-teeth) |  
 | [03](095-the-environment) | [04](094-ground-nuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08](090-clarity-of-mind) | [09](089-constant-effort) |  
-| [10](088-connect-to-the-audience) | [11](087-decide-and-have-courage) | [12]() | [13]() | [14]() | [15]() | [16]() |  
+| [10](088-connect-to-the-audience) | [11](087-decide-and-have-courage) | [12](086-dream-with-meditators) | [13]() | [14]() | [15]() | [16]() |  
 | [17]() | [18]() | [19]() | [20]() | [21]() | [22]() | [23]() |  
 | [24]() | [25]() | [26]() | [27]() | [28]() | [29]() |        |  
   
@@ -52,7 +52,7 @@ List of articles in Jan
 + 089 [Constant effort](089-constant-effort)
 + 088 [Connect to the audience](088-connect-to-the-audience)
 + 087 [Decide and have courage](087-decide-and-have-courage)
-+ 086
++ 086 [Dream with meditators](086-dream-with-meditators)
 + 085
 + 084
 + 083
