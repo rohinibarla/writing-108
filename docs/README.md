@@ -35,7 +35,7 @@ List of articles in Jan
 | M | T | W | T | F | S | S |  
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        |        |        |        | [01](097-i-dont-know) | [02](096-brushing-teeth) |  
-| [03](095-the-environment) | [04](094-ground-nuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08](090-clarity-of-mind) | [09](089-constant-effort) |  
+| [03](095-the-environment) | [04](094-groundnuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08](090-clarity-of-mind) | [09](089-constant-effort) |  
 | [10](088-connect-to-the-audience) | [11](087-decide-and-have-courage) | [12](086-dream-with-meditators) | [13]() | [14]() | [15]() | [16]() |  
 | [17]() | [18]() | [19]() | [20]() | [21]() | [22]() | [23]() |  
 | [24]() | [25]() | [26]() | [27]() | [28]() | [29]() |        |  
@@ -44,7 +44,7 @@ List of articles in Jan
 + 097 [I don't know](097-i-dont-know)
 + 096 [Brushing teeth causes gastritis?](096-brushing-teeth)
 + 095 [The environment](095-the-environment)
-+ 094 [Ground nuts](094-ground-nuts)
++ 094 [Ground nuts](094-groundnuts)
 + 093 [Developers in Vizag](093-developers-in-vizag)
 + 092 [Achiever's Mindset](092-achiever-mindset)
 + 091 [Evan Doll](091-evan-doll)
