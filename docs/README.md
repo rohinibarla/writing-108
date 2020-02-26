@@ -38,7 +38,7 @@ List of articles in Jan
 | [03](095-the-environment) | [04](094-groundnuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08](090-clarity-of-mind) | [09](089-constant-effort) |  
 | [10](088-connect-to-the-audience) | [11](087-decide-and-have-courage) | [12](086-dream-with-meditators) | [13](085-organized-notes) | [14](084-nurture-in-nature) | [15](083-interactive) | [16](082-aum) |  
 | [17](081-distraction-free-experience) | [18](080-what-do-i-teach) | [19]() | [20]() | [21]() | [22]() | [23]() |  
-| [24]() | [25]() | [26]() | [27]() | [28]() | [29]() |        |  
+| [24]() | [25](074-principles-for-writing-code) | [26](073-money-is-like-air) | [27]() | [28]() | [29]() |        |  
   
 List of articles in Jan  
 + 097 [I don't know](097-i-dont-know)
@@ -64,8 +64,8 @@ List of articles in Jan
 + 077
 + 076
 + 075
-+ 074
-+ 073
++ 074 [Principles for writing code](074-principles-for-writing-code)
++ 073 [Money is like air](073-money-is-like-air)
 + 072
 + 071
 + 070
