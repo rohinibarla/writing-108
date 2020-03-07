@@ -75,7 +75,7 @@ List of articles in Feb
 | M | T | W | T | F | S | S |
 | -- | -- | -- | -- | -- | -- | -- |
 |        |        |        |        |        |        | [01](069-alike) |  
-| [02]() | [03]() | [04]() | [05]() | [06](064-impressions.md) | [07](063-risk) | [08]() |  
+| [02]() | [03]() | [04]() | [05](065-a-pleasant-developer-experience) | [06](064-impressions) | [07](063-risk) | [08]() |  
 | [09]() | [10]() | [11]() | [12]() | [13]() | [14]() | [15]() |  
 | [16]() | [17]() | [18]() | [19]() | [20]() | [21]() | [22]() |  
 | [23]() | [24]() | [25]() | [26]() | [27]() | [28]() | [29]() |  
@@ -86,8 +86,8 @@ List of articles in Mar
 + 068
 + 067
 + 066
-+ 065
-+ 064 [Impressions](064-impressions.md)
++ 065 [A pleasant developer experience](065-a-pleasant-developer-experience)
++ 064 [Impressions](064-impressions)
 + 063 [Risk](063-risk)
 + 062
 + 061
