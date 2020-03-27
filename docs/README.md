@@ -78,7 +78,7 @@ List of articles in Feb
 | [02](068-pushing-the-boundaries) | [03](067-government-free-money) | [04](066-financial-businesses) | [05](065-a-pleasant-developer-experience) | [06](064-impressions) | [07](063-risk) | [08]() |  
 | [09]() | [10]() | [11](059-root) | [12](058-dictation) | [13]() | [14]() | [15]() |  
 | [16]() | [17]() | [18]() | [19]() | [20]() | [21]() | [22]() |  
-| [23]() | [24](046-sadhguru) | [25](045-use-your-sense) | [26](044-completed-book-death) | [27]() | [28]() | [29]() |  
+| [23](047-immunity-system) | [24](046-sadhguru) | [25](045-use-your-sense) | [26](044-completed-book-death) | [27](043-natural-vs-synthetic) | [28]() | [29]() |  
 | [30]() | [31]() |        |        |        |        |        |  
   
 List of articles in Mar  
@@ -104,11 +104,11 @@ List of articles in Mar
 + 050
 + 049
 + 048
-+ 047
++ 047 [Immunity System](047-immunity-system)
 + 046 [Sadhguru](046-sadhguru)
 + 045 [Use your sense](045-use-your-sense)
 + 044 [Completed Book: Death](044-completed-book-death)
-+ 043
++ 043 [Natural vs. Synthetic](043-natural-vs-synthetic)
 + 042
 + 041
 + 040
