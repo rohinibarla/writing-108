@@ -2,7 +2,7 @@
 
 In life, I came across a few people who tell to focus on health rather than medicine/disease. People like Dr. Khader Valli, Dr. B.M. Hegde, Sadhguru tell us to focus on strengthening our immune system.  
 
-Each one proposes different solutions to strengthen our immune system.
+Each one proposes different solutions to strengthen our immune system.  
 Dr. Khadhar Valli focuses on natural food, kashaya, lifestyle, mind and homeopathic medicine.  
 Dr. B.M Hegde focuses on food, mind, and looking at the value of traditional food habits.  
 Sadhguru focuses on yogic science methods like food (neem, turmeric, pepper, honey), mantras and kriyas.  
