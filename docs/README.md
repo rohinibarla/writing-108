@@ -79,7 +79,7 @@ List of articles in Feb
 | [09🌕]() | [10]() | [11](059-root) | [12](058-dictation) | [13]() | [14]() | [15]() |  
 | [16]() | [17]() | [18]() | [19]() | [20](050-the-richest-man-in-babylon) | [21]() | [22]() |  
 | [23](047-immunity-system) | [24🌑](046-sadhguru) | [25](045-use-your-sense) | [26](044-completed-book-death) | [27](043-natural-vs-synthetic) | [28]() | [29]() |  
-| [30]() | [31]() |        |        |        |        |        |  
+| [30](040-deep-problem-in-the-system) | [31](039-enhance-immunity) |        |        |        |        |        |  
   
 List of articles in Mar  
 + 069 [Alike](069-alike)
@@ -111,8 +111,8 @@ List of articles in Mar
 + 043 [Natural vs. Synthetic](043-natural-vs-synthetic)
 + 042
 + 041
-+ 040
-+ 039
++ 040 [Deep problem in the system](040-deep-problem-in-the-system)
++ 039 [Enhance immunity](039-enhance-immunity)
 
 
 ##### Apr - 30 days    
