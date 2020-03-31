@@ -14,7 +14,7 @@ One is “Yoga Yoga Yogeshwaraya” chant.
 More [details](https://isha.sadhguru.org/in/en/blog/article/offerings-sadhguru-challenging-times)  
 
 The second one is a simple Kriya, which takes less than 5 mins to do. Today when I did this in the morning, my experience is wonderful.  Which triggered me to write this and share it with you. **Dear friend, just try just this one thing for one day, if you don’t like it leave it.**  
-Here are the [Yoga Practice To Increase Lung Capacity & Boost Immunity - YouTube](https://www.youtube.com/watch?v=kWEIJs5FFjA)  
+Here is [Yoga Practice To Increase Lung Capacity & Boost Immunity - YouTube](https://www.youtube.com/watch?v=kWEIJs5FFjA)  
 
 The beauty of this Kriya is it strengthens our lungs. And immunity as well. And it is a simple diagnostic tool if we have any problem in the lungs. This was explicitly suggested for doctors who are handling Covid patients. But you and I can use it for our benefit.  
 
