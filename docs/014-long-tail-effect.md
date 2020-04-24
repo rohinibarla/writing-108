@@ -1,0 +1,11 @@
+### Long-tail effect
+
+In the current situation, there are a lot of old ways of doing, which we will not be able to do now. For example, going to the beach. Being in Vizag and you cannot visit the beach for the morning walk and enjoy pleasantness that the early morning brings. It may take a lot of time for it to be the state we have been earlier. Simple parks which we visit near our homes are now seen as danger zones. Same with community places of worship.   
+  
+Collective games are now distanced from. Cricket is played in many places in India, but now all those are just gone. Colleges, Schools, coaching centers, training centers, events, companies are not allowed the old way. A group of friends cannot meet. This new situation is like a disaster to our usual ways of functioning. Pushkaralu, river bathing?   
+  
+In parks, all the old people gather and talk every day in the evening. In this busy world, children don’t have time to talk to aging parents. It’s just physiological busy. But still, that is the way of society today. The old guys used to spent their evenings will all their retired group friends in the parks and places of walking. Now many don’t have children at home, they stay in faraway places. Some might have, but they are busy at working from home. So folks find it very difficult to lead the life without anyone beside to share relaxed and involved time. What is the effect on their physiological health? And in turn, how does it affect their physical health. It’s tough times for old people.  
+  
+A lot of our cultural practices are ready to get dismantled with this new state. Like the early morning people going around with bhajans. Like bathing in holy rivers. Forgetting about ourselves in the crowd to take Dharshan of our beloved god and goddesses. People are gathering around trees to light lamps in Karthika masam. Collective programs for doing yoga. Anything that we have carried till now, from now on, becomes a big taboo to just do it again. All the festivals in towns and villages, where we are so crowded. All those enjoyments are gone for a toss. If we think profoundly, it has changed a lot and we are going to have the long tail of this effect.   
+  
+ 
