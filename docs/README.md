@@ -122,7 +122,7 @@ List of articles in Mar
 |        |        | [01](038-good-lead-time) | [02](037-sadhana) | [03]() | [04]() | [05]() |  
 | [06]() | [07]() | [08]() | [09]() | [10]() | [11]() | [12]() |  
 | [13]() | [14]() | [15]() | [16]() | [17]() | [18]() | [19]() |  
-| [20]() | [21]() | [22]() | [23](015-first-15-mins) | [24](014-long-tail-effect) | [25](013-why-do-we-build-anti-patterns) | [26]() |  
+| [20]() | [21]() | [22](016-fpo-customers) | [23](015-first-15-mins) | [24](014-long-tail-effect) | [25](013-why-do-we-build-anti-patterns) | [26]() |  
 | [27]() | [28](010-adhi-shankaracharya-jayanthi) | [29](009-spending-resource) | [30]() |        |        |        |  
    
 List of articles in Apr  
@@ -148,7 +148,7 @@ List of articles in Apr
 + 019
 + 018
 + 017
-+ 016
++ 016 [FPO customers](016-fpo-customers)
 + 015 [First 15 mins](015-first-15-mins)
 + 014 [Long-tail effect](014-long-tail-effect)
 + 013 [Why do we build anti-patterns?](013-why-do-we-build-anti-patterns)
