@@ -38,7 +38,7 @@ List of articles in Jan
 | [03](095-the-environment) | [04](094-groundnuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08](090-clarity-of-mind) | [09](089-constant-effort) |  
 | [10](088-connect-to-the-audience) | [11](087-decide-and-have-courage) | [12](086-dream-with-meditators) | [13](085-organized-notes) | [14](084-nurture-in-nature) | [15](083-interactive) | [16](082-aum) |  
 | [17](081-distraction-free-experience) | [18](080-what-do-i-teach) | [19](079-be-a-technical-expert) | [20](078-questions-to-know) | [21]() | [22]() | [23]() |  
-| [24]() | [25](074-principles-for-writing-code) | [26](073-money-is-like-air) | [27](072-price-of-a-land) | [28](071-perceived) | [29](070-destructive-compounds) |        |  
+| [24](075-students-engagment) | [25](074-principles-for-writing-code) | [26](073-money-is-like-air) | [27](072-price-of-a-land) | [28](071-perceived) | [29](070-destructive-compounds) |        |  
   
 List of articles in Feb  
 + 097 [I don't know](097-i-dont-know)
@@ -63,7 +63,7 @@ List of articles in Feb
 + 078 [Questions to know](078-questions-to-know)
 + 077
 + 076
-+ 075
++ 075 [Students engagment](075-students-engagment)
 + 074 [Principles for writing code](074-principles-for-writing-code)
 + 073 [Money is like air](073-money-is-like-air)
 + 072 [Price of a land](072-price-of-a-land)
