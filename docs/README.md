@@ -30,15 +30,15 @@ List of articles in Jan
 + 099 [Be bold](099-be-bold)
 + 098 [Young innocent minds](098-young-innocent-minds)
 
-##### Feb - 29 days   
+##### Feb - 29 days - 28 articles  
 
 | M | T | W | T | F | S | S |  
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        |        |        |        | [01](097-i-dont-know) | [02](096-brushing-teeth) |  
 | [03](095-the-environment) | [04](094-groundnuts) | [05](093-developers-in-vizag) | [06](092-achiever-mindset) | [07](091-evan-doll) | [08](090-clarity-of-mind) | [09](089-constant-effort) |  
 | [10](088-connect-to-the-audience) | [11](087-decide-and-have-courage) | [12](086-dream-with-meditators) | [13](085-organized-notes) | [14](084-nurture-in-nature) | [15](083-interactive) | [16](082-aum) |  
-| [17](081-distraction-free-experience) | [18](080-what-do-i-teach) | [19](079-be-a-technical-expert) | [20](078-questions-to-know) | [21]() | [22]() | [23](076-ap-govt-english-schools) |  
-| [24](075-students-engagment) | [25](074-principles-for-writing-code) | [26](073-money-is-like-air) | [27](072-price-of-a-land) | [28](071-perceived) | [29](070-destructive-compounds) |        |  
+| [17](081-distraction-free-experience) | [18](080-what-do-i-teach) | [19](079-be-a-technical-expert) | [20](078-questions-to-know) | [21](077-claude-alvares) | [22](076-ap-govt-english-schools) | [23](075-students-engagment) |  
+| [24](074-principles-for-writing-code) | [25](073-money-is-like-air) | [26](072-price-of-a-land) | [27](071-perceived) | [28](070-destructive-compounds) | [29 -]() |        |  
   
 List of articles in Feb  
 + 097 [I don't know](097-i-dont-know)
@@ -61,7 +61,7 @@ List of articles in Feb
 + 080 [What do I teach?](080-what-do-i-teach)
 + 079 [Be a technical expert](079-be-a-technical-expert)
 + 078 [Questions to know](078-questions-to-know)
-+ 077
++ 077 [Claude Alvares](077-claude-alvares)
 + 076 [AP Govt English Schools](076-ap-govt-english-schools)
 + 075 [Students engagment](075-students-engagment)
 + 074 [Principles for writing code](074-principles-for-writing-code)
@@ -121,9 +121,9 @@ List of articles in Mar
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        | [01](038-good-lead-time) | [02](037-sadhana) | [03]() | [04]() | [05]() |  
 | [06]() | [07]() | [08]() | [09]() | [10]() | [11]() | [12]() |  
-| [13]() | [14]() | [15]() | [16]() | [17]() | [18](020-compile-a-book) | [19](019-app-dev-or-problem-solving) |  
-| [20](018-circus-monkeys) | [21](017-tcs-remote-work) | [22](016-fpo-customers) | [23](015-first-15-mins) | [24](014-long-tail-effect) | [25](013-why-do-we-build-anti-patterns) | [26](012-bret-victor) |  
-| [27](011-alan-kay) | [28](010-adhi-shankaracharya-jayanthi) | [29](009-spending-resource) | [30](008-distributed-dev) |        |        |        |  
+| [13]() | [14]() | [15]() | [16]() | [17]() | [18]() | [19](020-compile-a-book) |  
+| [20](019-app-dev-or-problem-solving) | [21](018-circus-monkeys) | [22](017-tcs-remote-work) | [23](016-fpo-customers) | [24](015-first-15-mins) | [25](014-long-tail-effect) | [26](013-why-do-we-build-anti-patterns) |  
+| [27](012-bret-victor) | [28](011-adhi-shankaracharya-jayanthi) | [29](010-alan-kay) | [30](009-spending-resource) |        |        |        |  
    
 List of articles in Apr  
 + 038 [Good lead time](038-good-lead-time)
@@ -153,18 +153,19 @@ List of articles in Apr
 + 014 [Long-tail effect](014-long-tail-effect)
 + 013 [Why do we build anti-patterns?](013-why-do-we-build-anti-patterns)
 + 012 [Bret Victor](012-bret-victor)
-+ 011 [Alan Kay](011-alan-kay)
-+ 010 [Adhi Shankaracharya Jayanthi](010-adhi-shankaracharya-jayanthi)
++ 011 [Adhi Shankaracharya Jayanthi](011-adhi-shankaracharya-jayanthi)
++ 010 [Alan Kay](010-alan-kay)
 + 009 [Spending resource](009-spending-resource)
-+ 008 [Distributed Dev](008-distributed-dev)
+
 
 ##### May - 07 days   
 
 | M | T | W | T | F | S | S |  
 | -- | -- | -- | -- | -- | -- | -- |  
-|        |        |        |        | [01](007-find-work) | [02](006-a-small-dream-village) | [03]() |  
-| [04]() | [05]() | [06]() | [07]() |        |        |        |  
+|        |        |        |        | [01](008-distributed-dev) | [02](007-find-work) | [03](006-a-small-dream-village) |  
+| [04]() | [05]() | [06]() | [07]() | [08]() |        |        |  
   
++ 008 [Distributed Dev]()
 + 007 [Find work](007-find-work)
 + 006 [A small dream village](006-a-small-dream-village)
 + 005
