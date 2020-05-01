@@ -162,11 +162,11 @@ List of articles in Apr
 
 | M | T | W | T | F | S | S |  
 | -- | -- | -- | -- | -- | -- | -- |  
-|        |        |        |        | [01](007-find-work) | [02]() | [03]() |  
+|        |        |        |        | [01](007-find-work) | [02](006-a-small-dream-village) | [03]() |  
 | [04]() | [05]() | [06]() | [07]() |        |        |        |  
   
 + 007 [Find work](007-find-work)
-+ 006
++ 006 [A small dream village](006-a-small-dream-village)
 + 005
 + 004
 + 003
