@@ -123,7 +123,7 @@ List of articles in Mar
 | [06]() | [07]() | [08]() | [09]() | [10]() | [11]() | [12]() |  
 | [13]() | [14]() | [15]() | [16]() | [17]() | [18]() | [19](019-app-dev-or-problem-solving) |  
 | [20](018-circus-monkeys) | [21](017-tcs-remote-work) | [22](016-fpo-customers) | [23](015-first-15-mins) | [24](014-long-tail-effect) | [25](013-why-do-we-build-anti-patterns) | [26]() |  
-| [27]() | [28](010-adhi-shankaracharya-jayanthi) | [29](009-spending-resource) | [30]() |        |        |        |  
+| [27]() | [28](010-adhi-shankaracharya-jayanthi) | [29](009-spending-resource) | [30](008-distributed-dev) |        |        |        |  
    
 List of articles in Apr  
 + 038 [Good lead time](038-good-lead-time)
@@ -156,7 +156,7 @@ List of articles in Apr
 + 011
 + 010 [Adhi Shankaracharya Jayanthi](010-adhi-shankaracharya-jayanthi)
 + 009 [Spending resource](009-spending-resource)
-+ 008
++ 008 [Distributed Dev](008-distributed-dev)
 
 ##### May - 07 days   
 
