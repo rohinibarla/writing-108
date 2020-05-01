@@ -165,7 +165,7 @@ List of articles in Apr
 |        |        |        |        | [01](008-distributed-dev) | [02](007-find-work) | [03](006-a-small-dream-village) |  
 | [04]() | [05]() | [06]() | [07]() | [08]() |        |        |  
   
-+ 008 [Distributed Dev]()
++ 008 [Distributed Dev](008-distributed-dev)
 + 007 [Find work](007-find-work)
 + 006 [A small dream village](006-a-small-dream-village)
 + 005
