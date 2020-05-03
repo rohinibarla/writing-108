@@ -16,4 +16,7 @@ Today's success is the result of many steps that we took in the past. Doing toda
   
 Finally felt like, it's ok, let it take more days, write daily an article every day. Just make sure you write one today. I am clear in my head that this will lead to the best things that I could create. And I will feel joyful in creating these on a daily basis.  
   
-Rest In Peace, goal-oriented habits.
+Rest In Peace, goal-oriented habits.  
+  
+This does not mean you should not have goals. You can have goals, but don't orient your actions with goals. Have goals, create a plan oriented towards a process.  
+  
