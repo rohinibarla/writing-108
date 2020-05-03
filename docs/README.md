@@ -121,7 +121,7 @@ List of articles in Mar
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        | [01](038-good-lead-time) | [02](037-sadhana) | [03]() | [04]() | [05]() |  
 | [06]() | [07]() | [08]() | [09]() | [10]() | [11]() | [12]() |  
-| [13]() | [14]() | [15]() | [16]() | [17]() | [18]() | [19](020-compile-a-book) |  
+| [13]() | [14]() | [15]() | [16]() | [17]() | [18](021-life-energies) | [19](020-compile-a-book) |  
 | [20](019-app-dev-or-problem-solving) | [21](018-circus-monkeys) | [22](017-tcs-remote-work) | [23](016-fpo-customers) | [24](015-first-15-mins) | [25](014-long-tail-effect) | [26](013-why-do-we-build-anti-patterns) |  
 | [27](012-bret-victor) | [28](011-adhi-shankaracharya-jayanthi) | [29](010-alan-kay) | [30](009-spending-resource) |        |        |        |  
    
@@ -143,7 +143,7 @@ List of articles in Apr
 + 024
 + 023
 + 022
-+ 021
++ 021 [Life Energies](021-life-energies)
 + 020 [Compile a book](020-compile-a-book)
 + 019 [App development or Problem-solving](019-app-dev-or-problem-solving)
 + 018 [Circus Moneys](018-circus-monkeys)
