@@ -1,7 +1,7 @@
 # Groundnuts
 Who has first identified the ground nuts and started collected for local population use, has to be thanked. There might be many people in many regions doing the same at different times in history. The person who has done for Telugu people must be appreciated. And the many things that they prepare with these groundnuts are lovely to eat. Many dishes use ground nuts as a part of the preparation. Just frying them and eating was a pass time for many times in childhood as well as in train journeys. 
 
-When there is nothing to eat in the morning along with curd rice, just adding these makes me feel the breakfast super and delicious. Just the raw one in breakfast is enough for me with water, salt, and rice to eat with. nothing else is needed.
+When there is nothing to eat in the morning along with curd rice, just adding these makes me feel the breakfast super and delicious. Just the raw one in breakfast is enough for me with water, salt, and rice to eat with. Nothing else is needed.
 
 In the north, people soak a handful of these nuts at night and eat daily in the morning. Where ever they go, they take them in a handkerchief and eat them when they feel like. That’s decent food to consume.
 

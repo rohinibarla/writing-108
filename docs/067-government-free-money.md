@@ -4,6 +4,6 @@ When there are norms to be followed. You can decide what to do with the money th
 
 But coming to the point, that as it does, if the US just prints money and give to their citizens. The citizens use that money to make use of the work of others. It’s like out of thin air you are giving power to their citizens for others to work for them. It’s another new kind of slavery. Which is being created.
 
-When the fundamental way of money creations is dubious, many things become absurd. Just this policy of giving UBI to US citizens is like to make everyone in the rest of the world slaves to their citizens. It all because we all trust the value of the dollar.
+When the fundamental way of money creations is dubious, many things become absurd. Just this policy of giving Universal Basic Income (UBI) to US citizens is like to make everyone in the rest of the world slaves to their citizens. It all because we all trust the value of the dollar.
 
 

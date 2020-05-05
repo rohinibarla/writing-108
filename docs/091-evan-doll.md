@@ -2,7 +2,7 @@
 
 Best classes that I have taken...
 
-After the release of the iPhone, around 2008-09, there were some classes taken at Stanford University to build iPhone apps using Objective-C. Two employees took these classes from Apple. One of them is Evan Doll. His style of teaching is tooooo good. Those are the best classes I have seen, someone teaching for beginners in iPhone Application programming on iOS.
+After the release of the iPhone, around 2008-09, there were some classes taken at Stanford University to build iPhone apps using Objective-C. Two employees from Apple took these classes. One of them is Evan Doll. His style of teaching is tooooo good. Those are the best classes I have seen, someone teaching for beginners in iPhone Application programming on iOS.
 
 Later he started the Flipboard App, which is one of the best apps on iPad to consume the content online, just like a magazine. So a dynamic magazine based on your interests is created. You can subscribe to different people's creations. They flow into your iPad like beautiful magazines.  
   

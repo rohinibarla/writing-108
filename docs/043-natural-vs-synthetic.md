@@ -1,6 +1,6 @@
 ### Natural vs. Synthetic
 
-There are some misleading words used by modern medicine practitioners who are convinced of scientific fervor. For example, when you talk about Kashayam of let say Guava leaves (jamaakulu). Any MBBS holder will say it's a crude form of medicine. Whereas the drugs they provide are pure or precise forms. When you say the same thing like this...  
+There are some misleading words used by modern medicine practitioners who are convinced of scientific fervor. For example, when you talk about Kashayam of let say Guava leaves (jamaakulu). Any MBBS degree holder will say it's a crude form of medicine. Whereas the drugs they provide are pure or precise forms. When you say the same thing like this...  
 
 The Kashayam is a natural form, whereas the medicines are of the synthetic reductionist form. With Kashayam, you treat the body as a system in the natural style. In contrast, modern medicine is you build a model based on Newtonian physics, as a collection of cause and effect.  
 

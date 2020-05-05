@@ -6,7 +6,7 @@ The dates in Indian calendars are marked from 1 to 15 for the phases of the moon
 
 Sages with great observation said that the alignment of moon and earth on Ekadashi is such, the conditions inside us are well suited for us to understand our inner dimension. When the external content(food) is less inside us, it facilitates to observe the system with required attentiveness will be feasible. So people fast on Ekadashi.  
 
-In a month, our body does not feel wanting to eat for 1-3 days. It feels not eating keeps in comfortable. When we observe more carefully, I mean listen to your body's signals, we can know which day it is for us. But many people don't have such keenness, so they use Ekadashi to fast. This fasting helps the system to rejuvenate, instead of continuously processing the incoming food. One day off will help the system to become better. It is asking for maintenance downtime, but we are not giving the needed downtime for the system.  
+In a month, our body does not feel wanting to eat for 1-3 days. Without food the body is comfortable in these days. When we observe more carefully, I mean listen to our body's signals, we can know which day it is for us. But many people don't have such keenness, so they use Ekadashi to fast. This fasting helps the system to rejuvenate, instead of continuously processing the incoming food. One day off will help the system to become better. It is asking for maintenance downtime, but we are not giving the needed downtime for the system.  
   
 Vayakunta Ekadashi is a special day in the month before Sankranthi, where Lord Venkateshwara temples allow people to enter from Uttara Dwaram (North entrance). It's only on that day. This north gateway is only on this one day per year.  
   
