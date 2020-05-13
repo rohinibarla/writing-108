@@ -145,10 +145,6 @@ def process(number):
     part_result = 1 + process(part)
     part_result += 2 + process(part * 2)
     return part_result
-
-def depth(number):
-    for step in 1..number
-
 ```
 
 What is the time complexity and space complexity of process function?
