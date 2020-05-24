@@ -163,7 +163,7 @@ List of articles in Apr
 | M | T | W | T | F | S | S |  
 | -- | -- | -- | -- | -- | -- | -- |  
 |        |        |        |        | [01](008-distributed-dev) | [02](007-find-work) | [03](006-a-small-dream-village) |  
-| [04](005-goal-oriented-habits) | [05]() | [06]() | [07]() | [08]() |        |        |  
+| [04](005-goal-oriented-habits) | [05]() | [06]() | [07]() | [08](001-my-21-min) |        |        |  
   
 + 008 [Distributed Dev](008-distributed-dev)
 + 007 [Find work](007-find-work)
@@ -172,4 +172,4 @@ List of articles in Apr
 + 004
 + 003
 + 002
-+ 001
++ 001 [My 21 min](001-my-21-min)
